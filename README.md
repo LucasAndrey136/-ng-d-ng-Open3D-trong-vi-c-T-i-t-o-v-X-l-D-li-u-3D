@@ -61,18 +61,6 @@ Tải bộ dữ liệu từ [Google Drive](https://drive.google.com/drive/folder
 Bạn có thể xem và chạy toàn bộ quy trình xử lý trong file notebook:
 `notebooks/Xu_ly_3D_Open3D.ipynb`
 
-## 📈 Kết quả minh họa
-
-Dưới đây là một số hình ảnh kết quả từ dự án.
-
-**1. Đám mây điểm gốc (Raw Point Cloud)**
-*(Bạn hãy chèn ảnh đám mây điểm gốc vào đây)*
-`![Raw Point Cloud](results/images/raw_point_cloud.png)`
-
-**2. Đám mây điểm sau khi xử lý (Processed Point Cloud)**
-*(Bạn hãy chèn ảnh đám mây điểm đã lọc nhiễu, giảm mật độ vào đây)*
-`![Processed Point Cloud](results/images/processed_point_cloud.png)`
-
 **3. Mô hình 3D sau khi tái tạo (Reconstructed 3D Model)**
 *(Bạn hãy chèn ảnh mô hình 3D hoàn chỉnh vào đây)*
 `![Reconstructed Model](results/images/reconstructed_model.png)`
