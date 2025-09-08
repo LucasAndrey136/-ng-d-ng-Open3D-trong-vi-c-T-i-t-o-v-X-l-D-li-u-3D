@@ -60,9 +60,4 @@ Tải bộ dữ liệu từ [Google Drive](https://drive.google.com/drive/folder
 ### 4. Chạy dự án
 Bạn có thể xem và chạy toàn bộ quy trình xử lý trong file notebook:
 `notebooks/Xu_ly_3D_Open3D.ipynb`
-
-**3. Mô hình 3D sau khi tái tạo (Reconstructed 3D Model)**
-*(Bạn hãy chèn ảnh mô hình 3D hoàn chỉnh vào đây)*
-`![Reconstructed Model](results/images/reconstructed_model.png)`
-
 ---
